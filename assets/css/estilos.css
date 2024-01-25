@@ -1,0 +1,52 @@
+#tarjeta {
+    border: 50px solid;
+    background-color: palevioletred;
+    margin: 50px;
+}
+p { 
+    background-color: rosybrown;
+    color: blanchedalmond;
+}
+
+main{
+    width: 100%;
+}
+
+h1{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#tarjeta{
+    border: 30px solid;
+    width: 100%;
+background-color: palevioletred;
+
+}
+
+#tarjeta2{
+    border: 30px solid;
+    width: 100%;
+background-color: palevioletred;
+}
+img{
+    width: 100%;
+}
+ body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGHOF_-xHeqygcZgsyp8d62SG90ZsPXgwQg&usqp=CAU");
+ }
+
+main {
+    width: 800px;
+    display: flex;
+}
+
